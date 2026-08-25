@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/readme-cover.png" width="100%" alt="Juno safely identifies and clears unnecessary Mac cache files" />
+</p>
+
+<p align="center">
   <img src="juno-icon.png" width="160" alt="Juno" />
 </p>
 
